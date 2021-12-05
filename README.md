@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZongRuLi
-- 👀 I’m interested in ASIC Design Verification
-- 🌱 I’m currently learning SystemVerilog, UVM verification, CPU architecture, parallel architecture, high level synthesis
+- 👀 I’m interested in ASIC Design Verification of computer arhictecture
+- 🌱 I’m currently self-learning SystemVerilog, UVM verification, CPU/GPU/DNN computer architecture, high level synthesis
 - 💞️ I’m looking to collaborate on RTL design/verification
 - 📫 How to reach me: zli87@ncsu.edu
 
