@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZongRuLi
+- 👋 Hi, I’m @zli87
 - 👀 I’m interested in ASIC Design Verification of computer arhictecture
 - 🌱 I plan to learn UVM verification, ASIC accelerator, high level synthesis
 - 💞️ I’m looking to collaborate on RTL design/verification
