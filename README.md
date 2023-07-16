@@ -2,7 +2,7 @@
 - 👀 I’m interested in ASIC Design Verification of computer arhictecture
 - 🌱 I plan to learn UVM verification, ASIC accelerator, high level synthesis
 - 💞️ I’m looking to collaborate on RTL design/verification
-- 📫 How to reach me: zli87@ncsu.edu
+- 📫 How to reach me: zli87@alumni.ncsu.edu
 
 <!---
 ZongRuLi/ZongRuLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
